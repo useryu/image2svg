@@ -1,0 +1,14 @@
+com\fisher\imageToSvg\ui\PreviewJPanel.class
+com\fisher\imageToSvg\ui\ImageConvertorWindow$2.class
+com\fisher\imageToSvg\ui\RemoveMainColorListener.class
+com\fisher\imageToSvg\processor\GetColors.class
+com\fisher\imageToSvg\App.class
+com\fisher\imageToSvg\ui\ImageConvertorWindow$1.class
+com\fisher\imageToSvg\ui\PickColorListener.class
+com\fisher\imageToSvg\ui\ImageConvertorWindow$3.class
+com\fisher\imageToSvg\ui\ImageConvertorWindow$4.class
+com\fisher\imageToSvg\processor\TestSVGGen.class
+com\fisher\imageToSvg\ui\ImageConvertorWindow.class
+com\fisher\imageToSvg\processor\ImageUtil.class
+com\fisher\imageToSvg\processor\CannyEdgeFilter.class
+com\fisher\imageToSvg\ui\SourceJPanel.class
